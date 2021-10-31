@@ -1,0 +1,1 @@
+Transcript: helloWorld.java:221) at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:808) at net.minecraft.client.main.Main.main(SourceFile:123) at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) at sun.reflect.NativeMethodAccessorImpl.invoke

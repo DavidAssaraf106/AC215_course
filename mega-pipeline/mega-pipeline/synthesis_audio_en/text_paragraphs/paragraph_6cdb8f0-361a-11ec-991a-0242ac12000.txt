@@ -1,0 +1,9 @@
+Transcript: hello it is raining now
+
+[06:20:54]SAY: Ian/ : Eh, I was looking
+
+[06:20:54]EMOTE: *no key*/(monkey (253)) : <b>The monkey (253)</b> rolls.
+
+[06:20:54]SAY: Ian/ : Don't you just love to watch kids pee?
+
+[06:20:54]SAY: Ian/ : Oh, one

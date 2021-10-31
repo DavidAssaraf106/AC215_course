@@ -1,0 +1,5 @@
+Bonjour.
+
+Remerciements Nous souhaitons remercier l'équipe Peltz-Petrozzi de lui fournir des informations précieuses sur le DFPC.En particulier, leurs rapports et leurs observations sur 12 configurations de points focaux, notamment pertinentes pour les applications actuelles FP35 / 36, ont été inestimables.Leurs recommandations étaient également importantes pour comprendre le comportement des nanomolécules laser 1H.
+
+Les contributions de l'auteur ont conçu et ont conçu les expériences: Andaudedes J à PMDO, Patty

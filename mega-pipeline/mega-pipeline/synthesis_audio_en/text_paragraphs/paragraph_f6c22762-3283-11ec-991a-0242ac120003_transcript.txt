@@ -1,0 +1,5 @@
+Hello.
+
+Acknowledgments We wish to thank the Peltz-Petrozzi team for providing him with invaluable insights into the DFPC. In particular, their reports and observations on 12 focal-point configurations, particularly which are relevant to current FP35/36 applications, were invaluable. Their recommendations were also important in understanding the behavior of 1H laser nanomolecules.
+
+Author Contributions Conceived and designed the experiments: ANDAUDES J AT PMDO, PATTY

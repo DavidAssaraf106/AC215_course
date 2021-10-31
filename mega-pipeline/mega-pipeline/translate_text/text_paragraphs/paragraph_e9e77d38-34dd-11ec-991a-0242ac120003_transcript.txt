@@ -1,0 +1,15 @@
+Hello.
+
+And here is how I put it in a statement:
+
+You should use the wget package for this.
+
+And here is a list of what we are talking about:
+
+roleserver ( W http://example.com/website/hello-world )
+
+the curl package for this
+
+curl -O https://google.com/google-client/localhost:8080/hello
+
+We're also talking about httpd,

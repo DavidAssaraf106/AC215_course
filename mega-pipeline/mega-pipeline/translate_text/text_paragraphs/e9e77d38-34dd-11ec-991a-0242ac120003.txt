@@ -1,0 +1,13 @@
+helloer
+
+
+[Missing file: a file called services.html. This could also refer to C and less, and in some cases more than one.]
+
+
+[/Missing file: a file called services.html.
+
+Replace function with function that converts string to ASCII text, converts these lines to string:
+
+compose [char]@E:\ \: This string, like "compose <\i>", becomes the first letter of the letter.
+
+]

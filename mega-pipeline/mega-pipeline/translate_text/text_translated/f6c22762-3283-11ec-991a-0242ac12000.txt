@@ -1,0 +1,1 @@
+Transcription: helloworld.java:221) à net.minecraft.client.minecraft.func_71384_a (Minecraft.java:552) à net.minecraft.client.minecraft.func_99999_d (Minecraft.java:808).Main.main (SourceFile: 123) à Sun.Reflect.nativemetHodAccessorimpl.invoke0 (méthode natif) à Sun.reflect.nativemethAccessorimpl.invoke

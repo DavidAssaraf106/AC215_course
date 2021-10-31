@@ -1,0 +1,9 @@
+Transcript: hello_world!
+
+
+[08:03:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+
+[08:03:15]SAY: Michael Johnson/Kjolstet : SCREWED ALARM
+
+
+[08:03:16]EMOTE:

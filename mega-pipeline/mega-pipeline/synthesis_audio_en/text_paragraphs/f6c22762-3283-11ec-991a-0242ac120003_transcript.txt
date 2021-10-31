@@ -1,0 +1,11 @@
+Hello.
+
+i am also using the ~/Library/LaunchAgents folder to develop (it does exist in my main development project as well). This is a short sample of what we are doing in this repository.
+
+Going over the installation steps.
+
+First of all we need to get the UNIX userspace running.
+
+Simply run the following command:
+
+$ ls -al ~/Library/LaunchAgents -v ~/Library/LaunchAgents_DIR/un

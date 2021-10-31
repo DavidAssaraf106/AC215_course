@@ -1,0 +1,11 @@
+Bonjour.
+
+J'utilise également le dossier ~ / Bibliothèque / Landagents à développer (il existe également dans mon projet de développement principal).Ceci est un échantillon court de ce que nous faisons dans ce référentiel.
+
+Passer sur les étapes d'installation.
+
+Tout d'abord, nous devons obtenir le fonctionnement des utilisateurs UNIX.
+
+Exécutez simplement la commande suivante:
+
+$ LS -Al ~ / Bibliothèque / Launchagents -V ~ / Bibliothèque / Laundagents_Dir / Un

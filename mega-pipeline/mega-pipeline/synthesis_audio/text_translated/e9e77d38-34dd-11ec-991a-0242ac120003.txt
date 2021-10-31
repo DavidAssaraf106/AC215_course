@@ -1,0 +1,13 @@
+helloer
+
+
+[Fichier manquant: un fichier appelé services.html.Cela pourrait également faire référence à C et moins, et dans certains cas plus d'un.]
+
+
+[/ Fichier manquant: un fichier appelé services.html.
+
+Remplacez la fonction par fonction qui convertit la chaîne en texte ASCII, convertit ces lignes en chaîne:
+
+Composer [Char] @e: \ \: cette chaîne, comme "Composez <\ i>", devient la première lettre de la lettre.
+
+]

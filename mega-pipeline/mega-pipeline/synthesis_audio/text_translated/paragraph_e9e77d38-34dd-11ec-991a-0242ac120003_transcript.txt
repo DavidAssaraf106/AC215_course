@@ -1,0 +1,15 @@
+Bonjour.
+
+Et voici comment je l'ai mis dans une déclaration:
+
+Vous devez utiliser le package wget pour cela.
+
+Et voici une liste de ce dont nous parlons:
+
+Réléerver (W http://example.com/website/hello-world)
+
+le paquet de curl pour cela
+
+Curl -o https://google.com/google-Client/localhost:8080/hello
+
+Nous parlons aussi de httpd,

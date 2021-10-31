@@ -1,0 +1,9 @@
+Hello. Today is Friday.
+
+As I mentioned in my piece yesterday, the number of rounds per year of sacking Black Mesa's venerable hardware has been growing ever since 2013. Today, you can count on having much better security and performance, even if you're just having a good time, and not having much hope.
+
+In short, you'll notice things like:
+
+Lack of last-minute hardware updates;
+
+The bumpy rollover-reserve period that
